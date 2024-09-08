@@ -1,8 +1,8 @@
 class Fuzzybrew < Formula
   desc "Fuzzy search for Homebrew packages"
   homepage "https://github.com/gschurck/fuzzybrew"
-  url "https://github.com/gschurck/fuzzybrew/archive/v0.1.0.tar.gz"
-  sha256 "81aab02c7cef7f3efb86563ba02a4a3fdc765e1879d3b36b27d3ebdc92876411"
+  url "https://github.com/gschurck/fuzzybrew/archive/v0.2.0.tar.gz"
+  sha256 "56ba18c06d756d735552e1a3cc65ef094f4161736f755740a53fae68bca0990c"
   license "MIT"
 
   depends_on "fzf"
